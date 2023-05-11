@@ -1,0 +1,3 @@
+token = MTEwMTc2NDAyMTE1MTA3NjM1Mw.GsQ61a.j5bodabD3RXqI2a5k5tZu_C4FATcCRnjpf8OIg
+owner = 691595441137254420
+prefix = "t!"
